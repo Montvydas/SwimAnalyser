@@ -1,0 +1,1 @@
+threeAxisRot update rate is 200Hz

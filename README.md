@@ -1,0 +1,3 @@
+# SwimAnalyser
+
+Swim analyser is a python based  tool used to analyse and track swimmers data if the device is placed on the head. The current algorithm can count how many times the head is turned to one or another side, how many laps did the swimmer perform. The algorithm instead of using raw accelerations and gyro data processes that using filters to extract pitch, roll and yaw angles and then uses that information to perform the counting e.g. significant rotation in yaw axis passed through a low pass filter means a turn was performs. This approach seems to be a lot more useful instead of the currently available techniques, which use raw acceleration data and try to detect pushes from a wall, which are not always performed by non-pro swimmers. 

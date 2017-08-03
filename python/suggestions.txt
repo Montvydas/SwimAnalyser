@@ -1,0 +1,4 @@
+mean, standard deviation, minimum, maximum, ratioof mean crossings and different percentiles but also a correla-tion between different acceleration channels 
+
+Efficient accelerometer-based swimming exercise tracking (PDF Download Available). Available from: https://www.researchgate.net/publication/221312175_Efficient_accelerometer-based_swimming_exercise_tracking [accessed Aug 27, 2017].
+

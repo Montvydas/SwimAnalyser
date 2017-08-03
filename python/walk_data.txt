@@ -1,0 +1,9 @@
+1 - Phone is lying in a palm.
+2 - Phone is around 45 degrees lifted.
+3 - Phone is 90 degrees lifted (back camera points to the walking direction).
+4 - Phone is 45 degrees lifted and 45 degrees rotated to the left.
+5 - Phone is lying in a palm + vibration motion.
+6 - Phone is 45 degrees lifted + vibration motion. 
+7 - Breast Stroke swimming. Every step there is a stroke.
+8 - Freestyle swimming. Every 2 steps one stroke.
+9 - Freestyle swimming. ~Every 4 steps one stroke.
